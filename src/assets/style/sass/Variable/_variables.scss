@@ -1,0 +1,42 @@
+// All required variables
+
+
+
+// Primary Colors
+$primary-color: #3498db;
+$primary-dark: #2c7cb8;
+$primary-light: #5dade2;
+
+// Secondary Colors
+$secondary-color: #2ecc71;
+$secondary-dark: #27ae60;
+$secondary-light: #58d68d;
+
+// Grayscale Colors
+$black: #000;
+$white: #fff;
+$gray-100: #f7f7f7;
+$gray-500: #b3b3b3;
+$gray-900: #333;
+
+
+// _variables.scss
+
+// Font Families
+$font-sans: "Helvetica Neue", Arial, sans-serif;
+$font-serif: "Georgia", serif;
+$font-mono: "Courier New", monospace;
+
+// Font Sizes
+$font-size-small: 0.875rem; // 14px
+$font-size-base: 1rem;      // 16px
+$font-size-lg: 1.125rem;    // 18px
+$font-size-xl: 1.5rem;      // 24px
+
+// Font Weights
+$font-weight-regular: 400;
+$font-weight-bold: 700;
+
+// Line Heights
+$line-height-normal: 1.5;
+$line-height-tight: 1.2;
