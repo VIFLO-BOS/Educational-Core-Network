@@ -4,9 +4,9 @@ import Navmenu from './EducorenetNavbar/Navmenu'
 import NavButton from './EducorenetNavbar/NavButton'
 
 function Home() {
+
   return (
-    <div>
-      this is the main component
+    <div className=' '>
 
       <Logo />
       <Navmenu />

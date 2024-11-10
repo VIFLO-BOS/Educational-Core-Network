@@ -1,0 +1,18 @@
+@import "./Variable/variables";
+
+.App {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: $white;
+	background: linear-gradient(
+		to right,
+		rgb(0, 0, 0),
+		rgb(0, 31, 51),
+		rgb(54, 0, 45)
+	);
+	font-family: "Inter", "Roboto", "Nunito", sans-serif;
+	height: 100vh;
+	width: 100%;
+	overflow: hidden;
+}
